@@ -1,0 +1,21 @@
+//powershell sample output:
+// name                                                                    vendor                                 version
+// ----                                                                    ------                                 -------
+// Python 3.8.7 Executables (64-bit)                                       Python Software Foundation             3.8.7...
+// Python 3.8.7 Add to Path (64-bit)                                       Python Software Foundation             3.8.7...
+// Python 3.8.7 Core Interpreter (64-bit)                                  Python Software Foundation             3.8.7...
+
+//apt sample output:
+//grep    2.16-1  amd64
+
+//yum sample output:
+// abrt-1.1.14-1.fc14.x86_64
+// abrt-addon-ccpp-1.1.14-1.fc14.x86_64
+// abrt-addon-kerneloops-1.1.14-1.fc14.x86_64
+// abrt-addon-python-1.1.14-1.fc14.x86_64
+// abrt-desktop-1.1.14-1.fc14.x86_64
+// abrt-gui-1.1.14-1.fc14.x86_64
+// abrt-libs-1.1.14-1.fc14.x86_64
+// abrt-plugin-bugzilla-1.1.14-1.fc14.x86_64
+// abrt-plugin-logger-1.1.14-1.fc14.x86_64
+// abrt-plugin-runapp-1.1.14-1.fc14.x86_64

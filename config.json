@@ -1,0 +1,32 @@
+{
+    "pkg_mngrs": {
+	"Debian": "apt",
+	"Ubuntu": "apt",
+	"Lubuntu": "apt",
+	"Xubuntu": "apt",
+	"Kubuntu": "apt",
+	"Linux Mint": "apt",
+	"Knoppix": "apt",
+	"Deepin": "apt",
+	"peppermint": "apt",
+	"bodhi linux": "apt",
+	"Red Hat Enterprise Linux": "yum",
+	"Fedora": "yum",
+	"CentOS": "yum",
+	"Oracle Enterprise Linux": "yum",
+	"Scientific": "yum",
+	"CERN": "yum",
+	"SUSE": "yum",
+	"OpenSUSE": "yum",
+	"Mageia": "yum",
+	"PCLinuxOS": "yum",
+	"Berry": "yum",
+	"Elastix": "yum",
+	"ClearOS": "yum",
+	"FrameOS": "yum",
+	"Fermi": "yum",
+	"Turbolinux": "yum",
+	"windows": "powershell"
+    }
+}
+	
